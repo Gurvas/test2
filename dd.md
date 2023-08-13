@@ -35,6 +35,8 @@ And I quote:
 Why they no work?
 💀
 
+:smiley_cat:
+
 **ah one cannot shortcode them in znote**
 
 |I want stuff|Yes |
